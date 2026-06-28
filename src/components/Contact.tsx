@@ -36,7 +36,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "India",
+      value: "Gurgaon, India",
       href: null
     }
   ];
