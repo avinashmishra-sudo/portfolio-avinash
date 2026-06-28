@@ -14,14 +14,14 @@ const Experience = () => {
       type: "Full-time",
       achievements: [
         "Executed comprehensive testing for financial systems processing $11M+ in daily transactions while ensuring 100% PCI DSS compliance and data security standards",
-        "Designed and documented 300+ test scenarios and 500+ detailed test cases covering major banking modules, improving test coverage by 35% [VERIFY]",
+        "Designed and documented 300+ test scenarios and 500+ detailed test cases covering major banking modules, improving test coverage by 35%",
         "Identified and logged 30+ critical and high-priority defects per sprint using JIRA, achieving 95% defect resolution rate before production releases",
-        "Performed regression testing across 15+ interconnected modules each sprint, reducing production incidents by 28% [VERIFY]",
+        "Performed regression testing across 15+ interconnected modules each sprint, reducing production incidents by 28%",
         "Optimized defect triage process and collaboration with development teams, reducing average resolution turnaround time by 40%",
-        "Conducted mobile application testing across iOS and Android platforms, identifying 25+ UI/UX issues that increased customer satisfaction scores by 15% [VERIFY]",
-        "Developed and implemented smoke test automation suite using Selenium WebDriver with Java and TestNG, reducing smoke test execution time by 60% [VERIFY]",
+        "Conducted mobile application testing across iOS and Android platforms, identifying 25+ UI/UX issues that increased customer satisfaction scores by 15%",
+        "Developed and implemented smoke test automation suite using Selenium WebDriver with Java and TestNG, reducing smoke test execution time by 60%",
         "Integrated automated tests with Maven build system and GitHub version control, enabling continuous testing in CI/CD pipeline",
-        "Performed comprehensive API validation using Postman and introduced basic API automation, improving API test coverage by 45% [VERIFY]",
+        "Performed comprehensive API validation using Postman and introduced basic API automation, improving API test coverage by 45%",
         "Mentored 3 junior testers on testing best practices, automation frameworks, and defect management processes"
       ]
     },
