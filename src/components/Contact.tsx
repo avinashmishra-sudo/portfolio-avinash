@@ -45,7 +45,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/avinash-mishra"
+      href: "https://linkedin.com/in/avinash-mishra-4b5544377"
     },
     {
       icon: Github,
